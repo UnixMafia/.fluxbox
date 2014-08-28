@@ -1,0 +1,5 @@
+[begin] (fluxbox)
+[exec]	(Term)  {urxvt}
+[exec]  (Web)   {firefox}
+[include] (/etc/X11/fluxbox/fluxbox-menu)
+[end]
